@@ -9,6 +9,13 @@
     "typescript": "^3.7.3"
   },
   "scripts": {
-    "dev": "ts-node src/app.ts"
+    "dev": "nodemon --legacy-watch"
+  },
+  "nodemonConfig": {
+    "ext": "ts",
+    "exec": "ts-node src/app.ts",
+    "watch": [
+      "src"
+    ]
   }
 }
