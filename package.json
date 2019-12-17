@@ -3,6 +3,7 @@
     "koa": "^2.11.0"
   },
   "devDependencies": {
+    "@types/koa": "^2.11.0",
     "ts-node": "^8.5.4",
     "typescript": "^3.7.3"
   }
