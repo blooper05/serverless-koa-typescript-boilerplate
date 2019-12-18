@@ -9,3 +9,4 @@ services:
       - /app/node_modules
     ports:
       - 3000:3000  # Host:Container
+      - 9229:9229  # Host:Container
