@@ -17,7 +17,8 @@
     "typescript": "^3.7.3"
   },
   "scripts": {
-    "dev": "nodemon --legacy-watch"
+    "dev": "nodemon --legacy-watch",
+    "lint": "eslint src --ext .ts"
   },
   "nodemonConfig": {
     "ext": "ts",
