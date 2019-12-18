@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "serverless-koa-typescript-boilerplate",
   "license": "UNLICENSED",
+  "author": "blooper05",
   "scripts": {
     "lint": "eslint src --ext .ts",
     "lint:fix": "eslint src --ext .ts --fix",
