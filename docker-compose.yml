@@ -8,5 +8,5 @@ services:
       - .:/app:cached
       - /app/node_modules
     ports:
-      - 3000:3000  # Host:Container
-      - 9229:9229  # Host:Container
+      - 3000:3000  # for HTTP Server
+      - 9229:9229  # for Node.js Inspector
