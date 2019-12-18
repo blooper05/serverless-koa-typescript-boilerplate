@@ -27,5 +27,9 @@
     "ts-node": "^8.5.4",
     "typescript": "^3.7.3"
   },
+  "engines": {
+    "node": "12.13.0",
+    "yarn": "1.19.1"
+  },
   "private": true
 }
