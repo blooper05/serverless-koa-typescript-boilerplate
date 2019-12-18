@@ -1,6 +1,7 @@
 {
   "name": "serverless-koa-typescript-boilerplate",
   "version": "0.1.0",
+  "description": "serverless-koa-typescript-boilerplate",
   "scripts": {
     "lint": "eslint src --ext .ts",
     "lint:fix": "eslint src --ext .ts --fix",
