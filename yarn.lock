@@ -33,6 +33,13 @@
     "@types/connect" "*"
     "@types/node" "*"
 
+"@types/bunyan@*":
+  version "1.8.6"
+  resolved "https://registry.yarnpkg.com/@types/bunyan/-/bunyan-1.8.6.tgz#6527641cca30bedec5feb9ab527b7803b8000582"
+  integrity sha512-YiozPOOsS6bIuz31ilYqR5SlLif4TBWsousN2aCWLi5233nZSX19tFbcQUPdR7xJ8ypPyxkCGNxg0CIV5n9qxQ==
+  dependencies:
+    "@types/node" "*"
+
 "@types/connect@*":
   version "3.4.32"
   resolved "https://registry.yarnpkg.com/@types/connect/-/connect-3.4.32.tgz#aa0e9616b9435ccad02bc52b5b454ffc2c70ba28"
@@ -86,6 +93,14 @@
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@types/keygrip/-/keygrip-1.0.1.tgz#ff540462d2fb4d0a88441ceaf27d287b01c3d878"
   integrity sha1-/1QEYtL7TQqIRBzq8n0oewHD2Hg=
+
+"@types/koa-bunyan-logger@^2.1.1":
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/@types/koa-bunyan-logger/-/koa-bunyan-logger-2.1.1.tgz#72df5cfcc26040c47d0f9ba7d11052f6090faf4c"
+  integrity sha512-6mb3FZh2ULyhfIfeIOXseTiECII3tyW1zb2JwL1CBy9sYSgRPeWOXzxnBDd7RACLDVVy+EnInti4xAHYtuwpZA==
+  dependencies:
+    "@types/bunyan" "*"
+    "@types/koa" "*"
 
 "@types/koa-compose@*":
   version "3.2.5"
