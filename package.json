@@ -11,7 +11,8 @@
     "start:dev": "nodemon --config .nodemon.json --legacy-watch"
   },
   "dependencies": {
-    "koa": "^2.11.0"
+    "koa": "^2.11.0",
+    "koa-bunyan-logger": "^2.1.0"
   },
   "devDependencies": {
     "@types/koa": "^2.11.0",
