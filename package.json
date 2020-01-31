@@ -1,7 +1,7 @@
 {
-  "name": "serverless-koa-typescript-boilerplate",
+  "name": "serverless-nest-boilerplate",
   "version": "0.1.0",
-  "description": "serverless-koa-typescript-boilerplate",
+  "description": "serverless-nest-boilerplate",
   "license": "UNLICENSED",
   "author": "blooper05",
   "main": "dist/index.js",
