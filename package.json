@@ -10,9 +10,7 @@
     "lint:fix": "eslint src --ext .ts --fix",
     "start:dev": "nodemon --config .nodemon.json --legacy-watch"
   },
-  "dependencies": {
-    "koa": "^2.11.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.12.0",
     "@typescript-eslint/parser": "^2.12.0",
